@@ -157,7 +157,6 @@ fun Greeting(modifier: Modifier = Modifier) {
 
     val clipboardManager = LocalClipboardManager.current
 
-
     Column(
         Modifier
             .fillMaxSize()
